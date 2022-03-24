@@ -1,0 +1,46 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.Header {
+    background-color: white;
+    text-align: center;
+    font-size: 50px;
+font-family: 'Roboto', sans-serif;
+
+}
+
+.img {
+    text-align: center;
+    
+}
+
+.Header1 {
+    background-color: rgb(154, 199, 184);
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    text-align: right;
+}
+
+.footer {
+    background-color: rgb(105, 105, 105);
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    
+}
+
+.HeaderImp {
+    background-color: rgb(154, 199, 184);
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.preFoot {
+    background-color: #929292;
+    color: #929292 ;
+}
+
